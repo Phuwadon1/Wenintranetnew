@@ -28,3 +28,6 @@ server/uploads/
 server/node_modules/
 server/.env
 .env
+
+.env.production
+node_modules/
